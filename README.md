@@ -1,5 +1,8 @@
 ### Hi there 👋
+Hello, world! I am a human living on EARTH! 
 
+## About me
+I took CS50
 <!--
 **dalton77-get/dalton77-get** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
